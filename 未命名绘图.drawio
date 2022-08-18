@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T06:57:55.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="wlcaJ29HixzX8u0eGp4e" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-18T06:58:06.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="QSJFtNBpkYYmVT7ctZif" version="20.2.3" type="github" pages="2">
   <diagram id="TxUpOMJJKONMRMzJ9cgT" name="第 1 页">
     <mxGraphModel dx="1275" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -367,14 +367,6 @@
         <mxCell id="jlSKy80MWfQZGo_qz9iX-84" value="&lt;h1 style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;line-height: 0.6; font-size: 10px; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;case1：进入中控页面的初始状态 or 直播状态关闭&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;case2：直播状态下，但暂无对应类型评论&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;case3：直播状态下，评论列表自动滚动&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;case4：直播状态下，评论列表停止滚动（新消息推送时有提示）&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-weight: 400;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=0;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="24" y="254.5" width="186" height="159.5" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="vurVYbb77EKP3EXlF79R" name="第 3 页">
-    <mxGraphModel dx="1275" dy="721" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
